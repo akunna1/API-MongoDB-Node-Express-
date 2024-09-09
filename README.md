@@ -1,3 +1,10 @@
+
+- database: social_media_db
+- collection: posts
+
+- npm init -y
+- npm install express mongoose multer body-parser
+
 ##### MongoDB Schema
 - There's no need to create a schema in the MongoDB shell, as the schema is defined using Mongoose in the PostSchema
 
